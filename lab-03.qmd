@@ -95,7 +95,7 @@ Now, we are going to learn how to collaborate using GitHub. Follow these steps:
 
 1.  Go to your GitHub repo on GitHub.com, go to *Settings* $\rightarrow$ *Collaborators* $\rightarrow$ *Add people*, then look for your teammates GitHub profile. Each teammates must do this, so you both will be collaborators on each Labs repository.
 
-2.  Now as a collaborators you can collaborate with your teammates repository, by cloning their repository. Go to their repository and copy the HTTPS url to clone their repository, this will looks like this:
+2.  Now as a collaborator you can collaborate with your teammates repository, by cloning their repository. Go to their repository and copy the HTTPS url to clone their repository, this will looks like this:
 
     `https://github.com/theirGitHubUserName/ECON2250_Labs_LastName_FirstName.git`.
 
